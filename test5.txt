@@ -1,3 +1,5 @@
 123
 abc
 git-branch-1 change
+squash1
+squash2
