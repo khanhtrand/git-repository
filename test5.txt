@@ -3,3 +3,6 @@ abc
 master change
 fetch change
 fetch change 2
+git-branch-1 change
+squash1
+squash2
